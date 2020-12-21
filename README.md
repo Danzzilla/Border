@@ -1,5 +1,6 @@
 # Border
 The purpose of this program is to display a set of information around a border
+* This program was originally made on 9/28/2020
 
 ## Things I've learned
 * When printing, typing "\\" prints out "\"
